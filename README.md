@@ -12,7 +12,7 @@
 
 ## Purpose
 
-    The purpose is to determine temperature trends before opening the surf shop. Specifically, this requires puling temperature data for June and December in Oahu to regulate if the shops business is sustainable year-round. 
+The purpose is to determine temperature trends before opening the surf shop. Specifically, this requires puling temperature data for June and December in Oahu to regulate if the shops business is sustainable year-round. 
 
 
 ## Results
